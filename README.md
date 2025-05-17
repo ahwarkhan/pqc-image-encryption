@@ -10,8 +10,8 @@ This repository contains the reference Python implementation for the research ar
 
 1. Python 3.8+
 2. Packages:
-    kyber_py (CRYSTALS-Kyber1024 interface)
-    numpy
-    pycryptodome (for AES S-Box and HMAC-SHA3)
-    pillow (PIL)
-    pysha3 (SHAKE-256)
+2.1. kyber_py (CRYSTALS-Kyber1024 interface)
+2.2. numpy
+2.3. pycryptodome (for AES S-Box and HMAC-SHA3)
+2.4. pillow (PIL)
+2.5. pysha3 (SHAKE-256)

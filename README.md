@@ -1,5 +1,5 @@
 # pqc-image-encryption
-This repository contains the reference Python implementation for the research article “Post‐Quantum Secure Image Encryption via Hybrid Chaotic–Lattice Dynamics: Design, Analysis, and Implementation.” It provides fully functional scripts for encrypting and decrypting images using a hybrid scheme that combines:
+This repository contains the reference Python implementation for the research article “A Novel Post‐Quantum Secure Image Encryption via Hybrid Chaotic–Lattice Dynamics.” It provides fully functional scripts for encrypting and decrypting images using a hybrid scheme that combines:
 
 1. CRYSTALS-Kyber1024 for post-quantum key encapsulation
 2. 4D Chen hyper-chaotic map for pixel permutation
